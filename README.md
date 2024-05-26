@@ -19,7 +19,7 @@ https://public.tableau.com/views/AirbnbDataVisualizationProject/Story1?:language
 
 ## Data Cleaning
 
-Begin by addressing the disorder and inconsistency within the dataset. Utilise Jupyter Notebook and Tableau Prep to systematically cleanse the data, rectifying discrepancies, eliminating duplicates, and standardising formats.
+Begin by addressing the disorder and inconsistency within the dataset. Utilise Google Collab Notebook and Tableau Prep to systematically cleanse the data, rectifying discrepancies, eliminating duplicates, and standardising formats.
 
 ## Data Transformation
 
@@ -34,13 +34,8 @@ Employ Tableau Prep to leverage its distinctive "Group and Replace" feature. Und
 
 ## Property analysis
 
-
-
 ## Pricing analysis
 
-
-
 ## Host analysis
-
 
 ## Overview of Airbnb
