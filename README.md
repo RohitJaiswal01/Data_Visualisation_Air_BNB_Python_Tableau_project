@@ -11,7 +11,7 @@ For this EDA project, we have chosen the "Airbnb Listings Data" dataset from 2 m
 
 
 
-How we have proceeded with the dashboard:
+# How we have proceeded with the dashboard:
 
 ## Data Cleaning
 
