@@ -6,6 +6,11 @@ This inquiry seeks to leverage Tableau's visual analytics capabilities to uncove
 
 For this EDA project, we have chosen the "Airbnb Listings Data" dataset from 2 major cities: Chicago and New Orleans. This dataset provides a comprehensive snapshot of various attributes related to Airbnb listings, such as property type, neighbourhood, pricing, availability, and more. The dataset is ideal for conducting an in-depth exploration of the local Airbnb market and deriving actionable insights.
 
+
+# Presentation Video
+
+
+
 How we have proceeded with the dashboard:
 
 ## Data Cleaning
