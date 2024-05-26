@@ -12,10 +12,26 @@ How we have proceeded with the dashboard:
 
 Begin by addressing the disorder and inconsistency within the dataset. Utilise Jupyter Notebook and Tableau Prep to systematically cleanse the data, rectifying discrepancies, eliminating duplicates, and standardising formats.
 
-# Data Transformation
+## Data Transformation
 
 Generate supplementary columns by utilising pre-existing categorical data. These columns will be derived from extensive descriptive text, which, in its original form, proved arduous to comprehend and unsuitable for visualisation purposes. The extra columns that we created gave a much clear sense of how to approach and make an effective visualisation.
 
-# Tableau
+## Tableau
 
 Employ Tableau Prep to leverage its distinctive "Group and Replace" feature. Under the column denoted as Neighbourhood there are instances where identical entities are variably represented due to disparities in letter casing, spelling variations, or phonetic similarity. The "Group and Replace" algorithm inherent to Tableau Prep proved instrumental in mitigating this issue.
+
+
+# Divided the visualisation findings into 4 categories:
+
+## Property analysis
+
+
+
+## Pricing analysis
+
+
+
+## Host analysis
+
+
+## Overview of Airbnb
