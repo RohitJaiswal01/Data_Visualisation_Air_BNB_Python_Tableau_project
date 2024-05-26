@@ -6,13 +6,21 @@ This inquiry seeks to leverage Tableau's visual analytics capabilities to uncove
 
 For this EDA project, we have chosen the "Airbnb Listings Data" dataset from 2 major cities: Chicago and New Orleans. This dataset provides a comprehensive snapshot of various attributes related to Airbnb listings, such as property type, neighbourhood, pricing, availability, and more. The dataset is ideal for conducting an in-depth exploration of the local Airbnb market and deriving actionable insights.
 
+## Repository files -
 
-# Presentation Video
+1) Chicago_listings.csv    -    Chicago listings dataset
+2) New_Orleans_listings.csv -   New Orleans listings dataset
+3) Air_BNB_Python_Tableau_project.ipynb - Google Collab Notebook for data manipulation, data wrangling with Python.
+4) AirBNB_Tableau_Prep.csv -    Appended cleaned overall dataset generated after Python Data Wrangling.
+5) Tableau prep project 4.tfl - Data transformation & data manipulation done with Tableau Prep. 
+6) AirBNB_Tableau_online.csv -  Dataset ready for visualisation generated from tableau prep.
 
 
 # Airbnb Data Visualization Link
 
 https://public.tableau.com/views/AirbnbDataVisualizationProject/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
+# Presentation Video
 
 
 # Steps to proceed with the dashboard:
