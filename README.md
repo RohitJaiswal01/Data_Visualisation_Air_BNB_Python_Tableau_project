@@ -21,7 +21,7 @@ For this EDA project, we have chosen the "Airbnb Listings Data" dataset from 2 m
 https://public.tableau.com/views/AirBNB_Data_Visualisation/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 # Presentation Video
-
+https://drive.google.com/file/d/15TbaDwoZ9hhnYIBOJ2v35S1j01MMNRtp/view?usp=sharing
 
 # Steps to proceed with the dashboard:
 
