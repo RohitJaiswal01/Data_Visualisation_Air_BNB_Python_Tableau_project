@@ -1,5 +1,5 @@
 # Data_Visualization_Air_BNB_Python_Tableau_project
-In the context of Airbnb operations, how can the utilization of Python, Tableau Prep, Tableau facilitate a comprehensive comparative examination between Chicago and New Orleans. 
+In the context of Airbnb operations, how can the utilization of Python, Tableau Prep, Tableau facilitate a comprehensive examination between Chicago and New Orleans. 
 
 This inquiry seeks to leverage Tableau's visual analytics capabilities to uncover and illustrate the shared attributes, disparities, and distinctive patterns inherent to Airbnb's presence in these cities, thus elevating the depth and insightfulness of the study.
 
