@@ -10,8 +10,8 @@ For this EDA project, we have chosen the "Airbnb Listings Data" dataset from 2 m
 
 1) Chicago_listings.csv    -    Chicago listings dataset
 2) New_Orleans_listings.csv -   New Orleans listings dataset
-3) Air_BNB_Python_Tableau_project.ipynb - Google Collab Notebook for data manipulation, data wrangling with Python.
-4) AirBNB_Tableau_Prep.csv -    Appended cleaned overall dataset generated after Python Data Wrangling.
+3) Air_BNB_Python_Tableau_project.ipynb - Google Collab Notebook used for data manipulation data wrangling with Python.
+4) AirBNB_Tableau_Prep.csv -    Appended cleaned dataset generated after Python Data Wrangling.
 5) Tableau prep project 4.tfl - Data transformation & data manipulation done with Tableau Prep. 
 6) AirBNB_Tableau_online.csv -  Dataset ready for visualization generated from tableau prep.
 
