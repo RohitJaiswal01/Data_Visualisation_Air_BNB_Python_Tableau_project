@@ -18,7 +18,7 @@ For this EDA project, we have chosen the "Airbnb Listings Data" dataset from 2 m
 
 # Airbnb Data Visualization Link
 
-https://public.tableau.com/views/AirBNB_Data_Visualisation/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/rohit.jaiswal2646/viz/AirBNB_Data_Visualisation/Story1?publish=yes
 
 # Presentation Video
 https://drive.google.com/file/d/15TbaDwoZ9hhnYIBOJ2v35S1j01MMNRtp/view?usp=sharing
