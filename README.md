@@ -38,16 +38,22 @@ Leveraged Tableau Prep's Group and Replace feature to resolve inconsistencies in
 # Divided the visualization findings into 4 categories:
 
 ## Property analysis
-![Screenshot 2024-10-23 220425](https://github.com/user-attachments/assets/e23289f7-d2e6-488c-8f71-c8596d55636b)
-![Screenshot 2024-10-23 220445](https://github.com/user-attachments/assets/ccbd6b00-d55c-459b-a726-1de09432e172)
+![Screenshot 2024-10-28 231953](https://github.com/user-attachments/assets/5f790ae4-3dbb-4164-ae7e-b75e8362b0ff)
+
+![Screenshot 2024-10-28 232000](https://github.com/user-attachments/assets/131b303f-e539-467e-aa25-4fdfb58cd919)
+
 
 ## Pricing analysis
-![Screenshot 2024-10-23 220452](https://github.com/user-attachments/assets/2f113c95-6a1e-4876-b88f-f1723b557b2d)
-![Screenshot 2024-10-23 220459](https://github.com/user-attachments/assets/87b1c56b-2398-4c26-ae36-f9acaf191be6)
+![Screenshot 2024-10-28 232012](https://github.com/user-attachments/assets/181bd755-f8e6-407d-862a-271648604c4f)
+
+![Screenshot 2024-10-28 232021](https://github.com/user-attachments/assets/08c907c0-a9e3-4c1e-bd4c-b031ac358615)
+
 
 ## Host analysis
-![Screenshot 2024-10-23 220512](https://github.com/user-attachments/assets/805d6098-6c76-4fba-bbc2-8baeb4edde86)
+![Screenshot 2024-10-28 232033](https://github.com/user-attachments/assets/bebb7073-29be-4b69-9a0e-186c4c049e17)
+
 
 
 ## Overview of Airbnb
-![Screenshot 2024-10-23 220542](https://github.com/user-attachments/assets/8e29ab84-0f4b-4ed0-8088-8608baf8f1b5)
+![Screenshot 2024-10-28 232439](https://github.com/user-attachments/assets/e768d0ae-aa1f-4b17-bfe0-fb5774da3a81)
+
