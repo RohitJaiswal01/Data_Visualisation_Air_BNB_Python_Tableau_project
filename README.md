@@ -55,6 +55,7 @@ Leveraged Tableau Prep's Group and Replace feature to resolve inconsistencies in
 
 
 ## Overview of Airbnb
-![Screenshot 2024-10-28 232813](https://github.com/user-attachments/assets/b0959115-2a5e-4f46-9e21-c28d5d5cd38a)
+![image](https://github.com/user-attachments/assets/b8888a28-28fe-4d5e-ac8f-a2b745c55774)
+
 
 
