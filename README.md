@@ -26,7 +26,7 @@ https://drive.google.com/file/d/15TbaDwoZ9hhnYIBOJ2v35S1j01MMNRtp/view?usp=shari
 # Steps to proceed with the dashboard:
 
 ## ETL Process
-## Data Extraction
+## Data Extraction:
 The datasets are hosted on GitHub, and we use Python's requests library to fetch them directly into Google Colab.
 
 ## Data Cleaning:
