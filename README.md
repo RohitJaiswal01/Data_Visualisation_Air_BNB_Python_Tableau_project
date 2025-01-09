@@ -26,6 +26,9 @@ https://drive.google.com/file/d/15TbaDwoZ9hhnYIBOJ2v35S1j01MMNRtp/view?usp=shari
 # Steps to proceed with the dashboard:
 
 ## ETL Process
+## Data Extraction
+The datasets are hosted on GitHub, and we use Python's requests library to fetch them directly into Google Colab.
+
 ## Data Cleaning:
 Addressed disorder and inconsistency in the dataset using Google Colab and Tableau Prep. This involved rectifying discrepancies, eliminating duplicates, and standardizing data formats to ensure consistency across both datasets (Chicago and New Orleans).
 
